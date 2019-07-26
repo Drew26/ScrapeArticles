@@ -1,4 +1,6 @@
-Issues: App is not functioning at this time. Need to complete code and deploy to Heroku
+Issues: App is not functioning at this time. Need to complete code and deploy to Heroku. I have included a screenshot of the scraping functionality.
+
+![scrape](scrape.png?raw=true "scrape")
 
 This app should scrape stories from ny tIMES and display them for the user. Each scraped article should be saved in the application database. This app should scrape and display the following information for each article:
 
